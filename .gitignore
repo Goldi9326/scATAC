@@ -1,0 +1,16 @@
+# Large output files
+*.bam
+*.bai
+*.bigwig
+*.gz
+*.h5
+*.cloupe
+outs/
+raw_peak_bc_matrix/
+filtered_peak_bc_matrix/
+analysis/
+
+# R temporary files
+.Rhistory
+.RData
+.Rproj.user
